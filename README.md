@@ -1,27 +1,28 @@
 # java_demo
 very simple java example
 
-javac 1.java
-java Demo1
-x = 21
-z = 1
+javac 1.java <br />
+java Demo1 <br />
+x = 21 <br />
+z = 1 <br />
+<br /><br />
+javac 2.java <br />
+java Demo2 <br />
+x = 280  <br />
+z = 7  <br />
+<br /><br />
+javac 3.java <br />
+java Demo3 <br />
+x = 2 <br />
+z = 6 <br />
 
-javac 2.java
-java Demo2
-x = 280
-z = 7
-
-javac 3.java
-java Demo3
-x = 2
-z = 6
-
-javac 4.java
-java Demo4
-x = 0
-z = 1
-
-javac 5.java
-java Demo5
-x = 18
-z = 12
+<br /><br /><br />
+javac 4.java <br />
+java Demo4 <br />
+x = 0 <br />
+z = 1 <br />
+<br /><br />
+javac 5.java <br />
+java Demo5 <br />
+x = 18 <br />
+z = 12 <br />
